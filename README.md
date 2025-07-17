@@ -9,7 +9,7 @@ Simula correos falsos y permite clasificarlos como sospechosos o seguros. Usa Re
 ## 🚀 Cómo ejecutar
 
 ```bash
-git clone https://github.com/tu-usuario/phishing-detector.git
+git clone https://github.com/tu-usuario/phishing-detector.git](https://github.com/NickHatone/Phishing-Page.git
 cd phishing-detector
 npm install
 npm run dev
