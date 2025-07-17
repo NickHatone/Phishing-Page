@@ -5,7 +5,7 @@ En la actualidad, el bash Copiar Editar git clone https://github.com/Empty6z/Sec
 
 Este proyecto aborda la necesidad de una herramienta sencilla y didáctica que permita a los usuarios aprender a identificar correos sospechosos mediante la visualización y clasificación manual de mensajes simulados, fomentando así la conciencia sobre los riesgos del phishing y mejorando la seguridad personal y corporativa.
 
-## ✅ SoluciónClaro, aquí tienes una versión ampliada y más detallada para la descripción de tu proyecto que puedes incluir en el README o la documentación de GitHub:
+## ✅ Solución
 
 ---
 
