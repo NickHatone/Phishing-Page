@@ -1,7 +1,7 @@
 # 📧 Detector de Correos Sospechosos
 
 ## 🎯 Problema
-En la actualidad, el phishing es una de las técnicas más comunes y peligrosas usadas por ciberdelincuentes para engañar a los usuarios y obtener información sensible, como contraseñas, datos bancarios o acceso a cuentas personales. Los correos electrónicos fraudulentos suelen imitar comunicaciones legítimas de empresas reconocidas, lo que dificulta que los usuarios puedan identificar cuándo un correo es malicioso.
+En la actualidad, el bash Copiar Editar git clone https://github.com/Empty6z/Securepass.git cd securepass npm install npm run dev Luego abre en tu navegador: http://localhost:5173phishing es una de las técnicas más comunes y peligrosas usadas por ciberdelincuentes para engañar a los usuarios y obtener información sensible, como contraseñas, datos bancarios o acceso a cuentas personales. Los correos electrónicos fraudulentos suelen imitar comunicaciones legítimas de empresas reconocidas, lo que dificulta que los usuarios puedan identificar cuándo un correo es malicioso.
 
 Este proyecto aborda la necesidad de una herramienta sencilla y didáctica que permita a los usuarios aprender a identificar correos sospechosos mediante la visualización y clasificación manual de mensajes simulados, fomentando así la conciencia sobre los riesgos del phishing y mejorando la seguridad personal y corporativa.
 
@@ -45,7 +45,70 @@ Finalmente, se diseñó una interfaz dividida en secciones que facilitan la lect
 ## 🚀 Cómo ejecutar
 
 ```bash
+Perfecto. Aquí tienes una sección ampliada y clara de **Instrucciones de uso**, que puedes insertar en tu `README.md` en GitHub. Incluye explicaciones paso a paso para que cualquier usuario —incluso sin experiencia previa— pueda ejecutar tu proyecto localmente:
+
+---
+
+## 🛠️ Instrucciones de Uso
+
+Sigue los siguientes pasos para clonar, instalar y ejecutar el proyecto en tu máquina local:
+
+### 1. Clona el repositorio
+
+Abre tu terminal o consola y ejecuta el siguiente comando para clonar el proyecto desde GitHub:
+
+```bash
 git clone https://github.com/NickHatone/Phishing-Page.git
-cd phishing-detector
+```
+
+### 2. Accede al directorio del proyecto
+
+Una vez clonado, entra al directorio del proyecto:
+
+```bash
+cd Phishing-Page
+```
+
+> 🔔 Asegúrate de estar en la carpeta correcta. Puedes usar `ls` (Linux/macOS) o `dir` (Windows) para listar los archivos y verificarlo.
+
+### 3. Instala las dependencias
+
+Instala los paquetes necesarios usando `npm` (Node Package Manager):
+
+```bash
 npm install
+```
+
+Esto descargará todas las librerías necesarias para que el proyecto funcione correctamente, como React, Vite, etc.
+
+### 4. Ejecuta el servidor de desarrollo
+
+Inicia la aplicación en modo desarrollo con:
+
+```bash
 npm run dev
+```
+
+Esto abrirá el proyecto en tu navegador, normalmente en la dirección:
+
+```
+http://localhost:5173/
+```
+
+> 📌 Si no se abre automáticamente, copia y pega esa URL en tu navegador.
+
+---
+
+### ✅ Requisitos Previos
+
+Antes de iniciar asegúrate de tener instalado:
+
+* **Node.js** (recomendado v18 o superior) 👉 [Descargar Node.js](https://nodejs.org/)
+* **npm** (incluido con Node.js)
+* **Git** 👉 [Descargar Git](https://git-scm.com/)
+* **Visual Studio Code** (opcional pero recomendado) 👉 [Descargar VS Code](https://code.visualstudio.com/)
+
+---
+
+
+
