@@ -1,7 +1,7 @@
-# 📧 Detector de Correos Sospechosos
+# Detector de Correos Sospechosos INACAP
 
 ## 🎯 Problema
-En la actualidad, el bash Copiar Editar git clone https://github.com/Empty6z/Securepass.git cd securepass npm install npm run dev Luego abre en tu navegador: http://localhost:5173phishing es una de las técnicas más comunes y peligrosas usadas por ciberdelincuentes para engañar a los usuarios y obtener información sensible, como contraseñas, datos bancarios o acceso a cuentas personales. Los correos electrónicos fraudulentos suelen imitar comunicaciones legítimas de empresas reconocidas, lo que dificulta que los usuarios puedan identificar cuándo un correo es malicioso.
+En la actualidad,es una de las técnicas más comunes y peligrosas usadas por ciberdelincuentes para engañar a los usuarios y obtener información sensible, como contraseñas, datos bancarios o acceso a cuentas personales. Los correos electrónicos fraudulentos suelen imitar comunicaciones legítimas de empresas reconocidas, lo que dificulta que los usuarios puedan identificar cuándo un correo es malicioso.
 
 Este proyecto aborda la necesidad de una herramienta sencilla y didáctica que permita a los usuarios aprender a identificar correos sospechosos mediante la visualización y clasificación manual de mensajes simulados, fomentando así la conciencia sobre los riesgos del phishing y mejorando la seguridad personal y corporativa.
 
